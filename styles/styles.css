@@ -257,5 +257,9 @@ main > section{
     }
     #experience-badge{
         margin-top: 20px;
-        margin-left: 5px;}
+        margin-left: 5px;
+    }
+    .footer{
+        margin-left: 20px;
+        }
   }
